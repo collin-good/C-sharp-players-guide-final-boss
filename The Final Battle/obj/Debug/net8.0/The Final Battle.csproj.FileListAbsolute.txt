@@ -1,0 +1,14 @@
+D:\C#\C# players guide\The Final Battle\obj\Debug\net8.0\The Final Battle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# players guide\The Final Battle\obj\Debug\net8.0\The Final Battle.AssemblyInfoInputs.cache
+D:\C#\C# players guide\The Final Battle\obj\Debug\net8.0\The Final Battle.AssemblyInfo.cs
+D:\C#\C# players guide\The Final Battle\obj\Debug\net8.0\The Final Battle.csproj.CoreCompileInputs.cache
+D:\C#\C# players guide\The Final Battle\bin\Debug\net8.0\The Final Battle.exe
+D:\C#\C# players guide\The Final Battle\bin\Debug\net8.0\The Final Battle.deps.json
+D:\C#\C# players guide\The Final Battle\bin\Debug\net8.0\The Final Battle.runtimeconfig.json
+D:\C#\C# players guide\The Final Battle\bin\Debug\net8.0\The Final Battle.dll
+D:\C#\C# players guide\The Final Battle\bin\Debug\net8.0\The Final Battle.pdb
+D:\C#\C# players guide\The Final Battle\obj\Debug\net8.0\The Final Battle.dll
+D:\C#\C# players guide\The Final Battle\obj\Debug\net8.0\refint\The Final Battle.dll
+D:\C#\C# players guide\The Final Battle\obj\Debug\net8.0\The Final Battle.pdb
+D:\C#\C# players guide\The Final Battle\obj\Debug\net8.0\The Final Battle.genruntimeconfig.cache
+D:\C#\C# players guide\The Final Battle\obj\Debug\net8.0\ref\The Final Battle.dll
