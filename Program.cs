@@ -43,7 +43,7 @@ while (_roundNumber < _monsters.Count && !_heros.IsDefeated)
 
     foreach (Character character in _actingCharacters.PartyMembers)
     {
-        //has do be done here or if a previous member of the party defeats an enemy the remaining party member's will have yellow test
+        //has do be done here or if a previous member of the party defeats an enemy the remaining party member's will have yellow text
         Console.ForegroundColor = _colors[_turnNumber % 2];
         //don't attack if the opposing party is defeated
         if (_targets.IsDefeated)
