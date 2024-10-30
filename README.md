@@ -1,0 +1,2 @@
+# Background
+This project is the final challenge from the book "The C# Players Guide" by RB Whitaker that teaches the reader the basics of object-oriented programming and coding in C# with a narrative that the reader (the true programmer) is helping people in a land that lost it's ability to write code becuase of the dreaded "Uncoded One". It is a turn based battle game (a la Pokemon) that sees The True Programmer and Vin Fletcher (one of the characters from the book) fighting through The Uncoded One's forces; leading to the final showdown with him.
