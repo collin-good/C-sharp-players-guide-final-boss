@@ -3,3 +3,5 @@ This project is the final challenge from the book "The C# Players Guide" by RB W
 
 # Skills Showcased
 This project showcases my ability to write object oriented code using concepts such as abstraction (CharacterActions are all used with their Perform method) and polymorphism (character controllers and items are able to be substituted for each other without changing the code), as well as basic C# concepts such as methods interfaces, and events
+
+NOTE: both contributors on thsi project are Collin-Good, I'm not sure why my personal Github (MrBanana12344) has commits on this repo, seeing as I never use it
