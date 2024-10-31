@@ -1,9 +1,7 @@
 ﻿public interface IUseItem
 {
     public event Action<IUseItem> OnUseItem;
-    public void UseItem(Character character)
-    {
-    }
+    public void UseItem(Character character);
 }
 
 public class HealItem : IUseItem

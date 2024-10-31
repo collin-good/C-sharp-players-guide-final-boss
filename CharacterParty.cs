@@ -1,6 +1,4 @@
-﻿using System.IO;
-
-public record CharacterParty
+﻿public record CharacterParty
 {
     public List<Character> PartyMembers { get; private set; }
     ControllerType _controller;

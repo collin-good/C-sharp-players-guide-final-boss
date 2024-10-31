@@ -37,6 +37,10 @@
         currentHealth = Math.Min(currentHealth + amount, characterData.maxHealth);
     }
 
+    /// <summary>
+    /// Subtracts the specified amount of health and kills the character if they get to or are below 0 health
+    /// </summary>
+    /// <param name="attackDamage">the amount of damage done</param>
     public void TakeDamage(int attackDamage)
     {
         currentHealth -= attackDamage;
